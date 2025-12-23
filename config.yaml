@@ -65,3 +65,393 @@ keywords:
             "Non‑Linear Reparameterization"
         ]
 
+  "Ultrasound AI (General)":
+    filters: [
+      "ultrasound deep learning",
+      "ultrasound machine learning",
+      "AI for ultrasound",
+      "ultrasound computer vision",
+      "ultrasound foundation model",
+      "ultrasound representation learning",
+      "sonography deep learning",
+      "point-of-care ultrasound AI",
+      "POCUS AI"
+    ]
+
+  "Ultrasound Tasks (Core)":
+    filters: [
+      "ultrasound classification",
+      "ultrasound segmentation",
+      "ultrasound detection",
+      "ultrasound landmark detection",
+      "ultrasound organ localization",
+      "ultrasound lesion localization",
+      "ultrasound tracking",
+      "ultrasound registration",
+      "ultrasound quality assessment",
+      "ultrasound view classification"
+    ]
+
+  "Medical Imaging AI (Broad)":
+    filters: [
+      "medical imaging deep learning",
+      "medical imaging machine learning",
+      "radiology AI",
+      "computer-aided diagnosis",
+      "CADx",
+      "CADe",
+      "clinical imaging foundation model",
+      "multimodal medical AI",
+      "self-supervised medical imaging"
+    ]
+
+  "Vision-Language Models (General)":
+    filters: [
+      "vision-language model",
+      "VLM",
+      "multimodal model",
+      "image-text model",
+      "vision-language pretraining",
+      "multimodal pretraining",
+      "multimodal alignment",
+      "visual instruction tuning",
+      "multimodal instruction tuning"
+    ]
+
+  "Medical Vision-Language Models (General)":
+    filters: [
+      "medical vision-language model",
+      "biomedical vision-language model",
+      "clinical vision-language model",
+      "radiology vision-language model",
+      "medical image-text pretraining",
+      "medical multimodal foundation model",
+      "clinical multimodal alignment",
+      "medical multimodal instruction tuning"
+    ]
+
+  "Ultrasound Vision-Language (Specific)":
+    filters: [
+      "ultrasound vision-language model",
+      "ultrasound image-text",
+      "ultrasound multimodal",
+      "ultrasound report generation model",
+      "ultrasound captioning model",
+      "ultrasound image-to-text",
+      "ultrasound CLIP",
+      "contrastive ultrasound image-text"
+    ]
+
+  "Medical Report Generation / Image-to-Text":
+    filters: [
+      "medical report generation",
+      "radiology report generation",
+      "clinical report generation",
+      "image-to-report",
+      "image-to-text medical",
+      "medical image captioning",
+      "structured report generation",
+      "finding generation"
+    ]
+
+  "Grounding / Localization (Text ↔ Image)":
+    filters: [
+      "visual grounding",
+      "phrase grounding",
+      "text-guided localization",
+      "language-guided localization",
+      "weakly supervised localization",
+      "lesion localization",
+      "text-supervised localization",
+      "cross-attention heatmap",
+      "pointing game"
+    ]
+
+  "Explainability / Interpretability (ML-specific)":
+    filters: [
+      "explainable AI medical imaging",
+      "interpretability deep learning",
+      "saliency map",
+      "Grad-CAM",
+      "CAM",
+      "attention rollout",
+      "feature attribution",
+      "occlusion sensitivity",
+      "counterfactual explanations"
+    ]
+
+  "Knowledge-Enhanced / Ontology / Concept Grounding":
+    filters: [
+      "knowledge-enhanced learning",
+      "knowledge grounding",
+      "knowledge graph medical",
+      "ontology-based learning",
+      "UMLS",
+      "SNOMED CT",
+      "RadLex",
+      "concept normalization",
+      "concept-conditioned model"
+    ]
+
+  "Retrieval-Augmented / Tool-Augmented Multimodal":
+    filters: [
+      "retrieval-augmented generation",
+      "RAG",
+      "multimodal RAG",
+      "retrieval-augmented VLM",
+      "tool-augmented multimodal",
+      "external knowledge retrieval",
+      "evidence-grounded generation",
+      "citation-grounded generation"
+    ]
+
+  "Clinical NLP (General)":
+    filters: [
+      "clinical NLP",
+      "medical NLP",
+      "clinical information extraction",
+      "clinical named entity recognition",
+      "medical entity linking",
+      "clinical relation extraction",
+      "assertion detection clinical text",
+      "negation detection clinical text",
+      "uncertainty detection clinical text"
+    ]
+
+  "Radiology / Imaging-Report NLP":
+    filters: [
+      "radiology NLP",
+      "radiology report parsing",
+      "report-to-graph",
+      "report structuring",
+      "imaging report information extraction",
+      "clinical finding extraction",
+      "medical entity graph extraction",
+      "RadGraph"
+    ]
+
+  "Weak Supervision / Distant Supervision (for NER & grounding)":
+    filters: [
+      "weak supervision for NER",
+      "distant supervision for NER",
+      "weak labeling",
+      "data programming",
+      "Snorkel",
+      "bootstrapped information extraction",
+      "self-training for NER",
+      "pseudo-labeling"
+    ]
+
+  "Self-Supervised / Contrastive / Representation Learning":
+    filters: [
+      "self-supervised learning",
+      "contrastive learning",
+      "image-text contrastive learning",
+      "masked modeling",
+      "masked image modeling",
+      "masked language modeling",
+      "multimodal contrastive pretraining",
+      "representation learning"
+    ]
+
+  "Model Architectures for Multimodal":
+    filters: [
+      "transformer decoder cross-attention",
+      "multimodal transformer",
+      "encoder-decoder vision-language",
+      "ViT vision-language",
+      "Q-former",
+      "Perceiver",
+      "mixture of experts multimodal",
+      "cross-modal attention"
+    ]
+
+  "Multi-View / Multi-Image Modeling":
+    filters: [
+      "multi-view medical imaging",
+      "multi-image vision-language",
+      "study-level report generation",
+      "set-based aggregation",
+      "late fusion multimodal",
+      "early fusion multimodal",
+      "view-aware modeling",
+      "multi-instance learning medical imaging"
+    ]
+
+  "Preference Optimization / Alignment (General)":
+    filters: [
+      "preference optimization",
+      "preference learning",
+      "pairwise preference learning",
+      "offline preference optimization",
+      "policy optimization for language models",
+      "alignment for generative models",
+      "reward modeling",
+      "preference dataset"
+    ]
+
+  "RLHF / RLAIF / DPO (Core Family)":
+    filters: [
+      "reinforcement learning from human feedback",
+      "RLHF",
+      "reinforcement learning from AI feedback",
+      "RLAIF",
+      "Direct Preference Optimization",
+      "DPO",
+      "PPO for language models",
+      "reward model training"
+    ]
+
+  "Preference Optimization Variants / Alternatives":
+    filters: [
+      "IPO implicit preference optimization",
+      "ORPO",
+      "KTO",
+      "RRHF",
+      "self-rewarding language model",
+      "self-critique preference optimization",
+      "pairwise ranking loss for LLMs",
+      "contrastive preference learning"
+    ]
+
+  "Medical Hallucination / Factuality / Faithfulness":
+    filters: [
+      "hallucination in vision-language models",
+      "hallucination mitigation",
+      "factuality in generation",
+      "faithfulness in generation",
+      "grounded generation",
+      "factual consistency",
+      "clinical factual consistency",
+      "medical hallucination",
+      "verification for medical generation"
+    ]
+
+  "Automatic Evaluation (Medical + Multimodal)":
+    filters: [
+      "medical report evaluation",
+      "entity-based evaluation",
+      "graph-based evaluation",
+      "factuality metrics",
+      "consistency metrics",
+      "clinical correctness metric",
+      "multimodal evaluation benchmark",
+      "LLM-as-a-judge evaluation"
+    ]
+
+  "Human Evaluation / Clinical Evaluation":
+    filters: [
+      "human evaluation of generated reports",
+      "clinical evaluation of AI",
+      "radiologist evaluation",
+      "expert evaluation protocol",
+      "inter-rater agreement",
+      "rubric-based evaluation",
+      "error taxonomy medical AI",
+      "clinical user study AI"
+    ]
+
+  "LLM-as-a-Judge / Multi-Agent Scoring (AI-specific)":
+    filters: [
+      "LLM as a judge",
+      "LLM-based evaluation",
+      "multi-agent evaluation",
+      "debate-style evaluation",
+      "rubric prompting",
+      "grading with language models",
+      "self-consistency evaluation",
+      "RLAIF judge prompting"
+    ]
+
+  "Robustness / Safety / Reliability (AI + ML-specific)":
+    filters: [
+      "robust machine learning",
+      "robust deep learning",
+      "robustness of neural networks",
+      "adversarial examples",
+      "adversarial attacks",
+      "adversarial training",
+      "distribution shift in machine learning",
+      "dataset shift",
+      "domain shift",
+      "out-of-distribution detection",
+      "OOD generalization",
+      "uncertainty quantification",
+      "predictive uncertainty",
+      "Bayesian deep learning",
+      "model calibration",
+      "reliability diagrams",
+      "selective prediction",
+      "conformal prediction",
+      "safe machine learning",
+      "trustworthy AI",
+      "robust evaluation"
+    ]
+
+  "Generalization / Domain Adaptation / Transfer":
+    filters: [
+      "transfer learning medical imaging",
+      "domain adaptation medical imaging",
+      "domain generalization",
+      "cross-domain generalization",
+      "fine-tuning foundation models",
+      "few-shot medical imaging",
+      "zero-shot medical imaging",
+      "open-set recognition medical imaging"
+    ]
+
+  "Datasets / Benchmarks (Medical + Ultrasound + Multimodal)":
+    filters: [
+      "ultrasound dataset",
+      "medical imaging dataset",
+      "radiology report dataset",
+      "image-text medical dataset",
+      "multimodal medical benchmark",
+      "clinical dataset curation",
+      "weakly labeled medical dataset",
+      "public medical benchmark"
+    ]
+
+  "Data Curation / Synthetic Data / Augmentation (AI-specific)":
+    filters: [
+      "data curation for foundation models",
+      "dataset cleaning for LLMs",
+      "synthetic data generation",
+      "self-instruct multimodal",
+      "data augmentation medical imaging",
+      "counterfactual data augmentation",
+      "hard negative mining",
+      "preference dataset construction"
+    ]
+
+  "Training Efficiency / PEFT / Compression (AI-specific)":
+    filters: [
+      "parameter-efficient fine-tuning",
+      "PEFT",
+      "LoRA",
+      "QLoRA",
+      "adapter tuning",
+      "prompt tuning",
+      "knowledge distillation",
+      "model distillation",
+      "quantization for neural networks",
+      "pruning neural networks"
+    ]
+
+  "Open-Source / Reproducibility (AI-specific)":
+    filters: [
+      "reproducibility in machine learning",
+      "benchmarking deep learning",
+      "training recipe",
+      "scaling laws",
+      "ablations",
+      "hyperparameter sensitivity",
+      "implementation details",
+      "open-source medical AI"
+    ]
+
+
+
+
+
+
