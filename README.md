@@ -1,4 +1,4 @@
-## Updated on 2026.05.25
+## Updated on 2026.06.01
 
 <details><summary>Table of Contents</summary><ol>
 <li><a href=#quantization>Quantization</a></li>
